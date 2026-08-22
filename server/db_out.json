@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mounika",
+      "email": "mounika@gmail.com",
+      "role": "user",
+      "blood_group": null,
+      "city": "hyderabad"
+    },
+    {
+      "id": 2,
+      "name": "cse",
+      "email": "cse@gmail.com",
+      "role": "user",
+      "blood_group": null,
+      "city": "hyderabad"
+    },
+    {
+      "id": 3,
+      "name": "asg",
+      "email": "asg@gmail.com",
+      "role": "user",
+      "blood_group": null,
+      "city": "hyderabad"
+    },
+    {
+      "id": 5,
+      "name": "mouMounika",
+      "email": "mounika_test@gmail.com",
+      "role": "user",
+      "blood_group": null,
+      "city": "hyderabad"
+    },
+    {
+      "id": 6,
+      "name": "asdf",
+      "email": "asdf@gmail.com",
+      "role": "user",
+      "blood_group": null,
+      "city": "hyderabad"
+    },
+    {
+      "id": 7,
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "role": "user",
+      "blood_group": "A+",
+      "city": "hyderabad"
+    },
+    {
+      "id": 8,
+      "name": "Test Donor",
+      "email": "testdonor@example.com",
+      "role": "user",
+      "blood_group": "O+",
+      "city": "hyderabad"
+    },
+    {
+      "id": 9,
+      "name": "Test Donor",
+      "email": "testdonor_1772946290729@example.com",
+      "role": "user",
+      "blood_group": "O+",
+      "city": "hyderabad"
+    },
+    {
+      "id": 10,
+      "name": "Test Donor",
+      "email": "d732@test.com",
+      "role": "user",
+      "blood_group": "O+",
+      "city": "hyderabad"
+    },
+    {
+      "id": 11,
+      "name": "Test Donor",
+      "email": "testdonor99@gmail.com",
+      "role": "user",
+      "blood_group": "O+",
+      "city": "hyderabad"
+    },
+    {
+      "id": 12,
+      "name": "Final Test Donor",
+      "email": "final_1772946351733@example.com",
+      "role": "user",
+      "blood_group": "O+",
+      "city": "hyderabad"
+    },
+    {
+      "id": 14,
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "role": "user",
+      "blood_group": "B+",
+      "city": "hyderabad"
+    },
+    {
+      "id": 15,
+      "name": "Test Admin",
+      "email": "testadmin@example.com",
+      "role": "user",
+      "blood_group": "O+",
+      "city": "hyderabad"
+    },
+    {
+      "id": 16,
+      "name": "Test Admin",
+      "email": "admin_test_unique_123@example.com",
+      "role": "user",
+      "blood_group": "O+",
+      "city": "hyderabad"
+    }
+  ],
+  "notifs": []
+}

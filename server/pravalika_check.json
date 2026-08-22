@@ -1,0 +1,81 @@
+{
+  "user": {
+    "id": 20,
+    "name": "pravalika",
+    "email": "pravalika@gmail.com",
+    "password": "$2b$10$5jTUztLF.pZ9MKmEPaJ96ums3NjsqAYm57rHMOo/Dw.gvbsyRPtgC",
+    "role": "user",
+    "blood_group": "A+",
+    "dob": "2001-12-31T18:30:00.000Z",
+    "health_info": "fit and healthy ,no illness",
+    "is_verified": false,
+    "city": "hyderabad"
+  },
+  "reqs": [
+    {
+      "id": 4,
+      "user_id": 21,
+      "blood_group": "A+",
+      "city": "hyderabad",
+      "hospital": "general medicine",
+      "units_required": 4,
+      "contact_phone": "8877665599",
+      "created_at": "2026-03-08T04:10:41.127Z",
+      "status": "Pending",
+      "hospital_id": 21,
+      "donor_id": null,
+      "is_admin_verified": true
+    },
+    {
+      "id": 3,
+      "user_id": 19,
+      "blood_group": "B-",
+      "city": "New Delhi",
+      "hospital": "general/2nd floor",
+      "units_required": 5,
+      "contact_phone": "9988776655",
+      "created_at": "2026-03-08T03:07:32.708Z",
+      "status": "Pending",
+      "hospital_id": 19,
+      "donor_id": null,
+      "is_admin_verified": true
+    },
+    {
+      "id": 2,
+      "user_id": 18,
+      "blood_group": "B-",
+      "city": "hyderabad",
+      "hospital": "general/1st floor",
+      "units_required": 4,
+      "contact_phone": "9876543210",
+      "created_at": "2026-03-08T01:54:42.733Z",
+      "status": "Pending",
+      "hospital_id": 18,
+      "donor_id": null,
+      "is_admin_verified": true
+    },
+    {
+      "id": 1,
+      "user_id": 1,
+      "blood_group": "A+",
+      "city": "Hyderabad",
+      "hospital": "Apollo Hospital",
+      "units_required": 2,
+      "contact_phone": "8888888888",
+      "created_at": "2026-03-03T05:42:27.245Z",
+      "status": "Fulfilled",
+      "hospital_id": null,
+      "donor_id": null,
+      "is_admin_verified": true
+    }
+  ],
+  "notifs": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "message": "🚨 Urgent: A+ Blood required at general medicine in hyderabad.",
+      "is_read": false,
+      "created_at": "2026-03-08T04:10:41.640Z"
+    }
+  ]
+}
